@@ -37,3 +37,6 @@ Adăugarea de recunoaștere vocală (Speech-to-Text) pentru input vocal complet
 Integrarea cu sisteme IoT sau roboți pentru comenzi vocale inteligente
 
 Extinderea bazelor de cunoștințe pentru răspunsuri mai precise și variate
+
+
+Pentru a testa AI conversațional vocal, accesați [agentul meu ElevenLabs](https://elevenlabs.io/app/conversational-ai/talk-to/agent_8501k3t7h90bebvr28cg3j5kwhmb).
